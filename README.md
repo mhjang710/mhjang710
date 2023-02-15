@@ -1,7 +1,8 @@
 <a href="mailto:minho00123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/mh.jang710/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=Instagram&logoColor=white"/></a>
 
-
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+ 
 ### Hi there 👋
 
 <!--
