@@ -1,4 +1,5 @@
-<a href="minho00123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=appveyor&logoColor=white"/></a>
+<a href="mailto:minho00123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=social&logo=appveyor&logoColor=white"/></a>
+<a href="https://www.instagram.com/mh.jang710/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=social&logo=appveyor&logoColor=white"/></a>
 
 
 ### Hi there 👋
