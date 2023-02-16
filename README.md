@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Github stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhjang710&show_icons=true&theme=onedark)
 
-https://simpleicons.org/icons/gmail.svg
+<!-- Top Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhjang710&layout=compact)
