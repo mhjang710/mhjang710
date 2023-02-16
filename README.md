@@ -13,7 +13,36 @@
 
 ---
 
+### :pushpin: About Me :
 
+I am a person who wants to become a developer!
+
+---
+
+### :hammer_and_wrench: Skills:
+
+#### :scroll: Languages:
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+</div>
+
+#### :hammer_and_wrench: Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### My Stats :
+<div align="center">
+
+<!-- Github stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhjang710&show_icons=true&theme=onedark)
+
+<!-- Top Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhjang710&layout=compact)
+</div>
 
 <!--
 **mhjang710/mhjang710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,20 +60,3 @@ Here are some ideas to get you started:
 -->
 
 
-<p>
-
-<!-- Github stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhjang710&show_icons=true&theme=onedark)
-</p>
-
-<p>
-
-<!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhjang710&layout=compact)
-</p>
-</div>
-
-<!-- Hits -->
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmhjang710&count_bg=%23C6A76E&title_bg=%23282C34&icon=github.svg&icon_color=%23C6A76E&title=hits&edge_flat=false"/></a>
-</p>
