@@ -1,8 +1,11 @@
-<a href="mailto:minho00123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/mh.jang710/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=Instagram&logoColor=white"/></a>
+<h3 align="center">📇 Contact Me</h3>
+<p align="center">
+  <a href="mailto:minho00123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=minho00123@gmail.com"/></a>
+  &nbsp
+  <a href="https://www.instagram.com/mh.jang710/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/mh.jang710/"/></a>
+</p>
 
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
- 
+
 ### Hi there 👋
 
 <!--
@@ -20,11 +23,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div style="display:inline;">
+<p>
+
 <!-- Github stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhjang710&show_icons=true&theme=onedark)
+</p>
+
+<p>
 
 <!-- Top Languages Card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhjang710&layout=compact)
+</p>
+</div>
 
 <!-- Hits -->
 <p align="center">
